@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+django-restframework = "*"
+youtube-search = "*"
+spotipy = "*"
+djangorestframework = "*"
+django-allauth = "*"
+dj-rest-auth = "*"
+djoser = "*"
+django-cors-headers = "*"
+djangorestframework-simplejwt = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
