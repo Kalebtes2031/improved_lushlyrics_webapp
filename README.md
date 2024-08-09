@@ -1,5 +1,6 @@
 # improved_lushlyrics_webapp
 Setup
+
 The first thing to do is to clone the repository:
 
 $ git clone https://github.com/mohammedwed/Lushlyrics-insecure.git
